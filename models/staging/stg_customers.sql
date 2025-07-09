@@ -1,6 +1,4 @@
---here is a change and here I am making a test change
-
--- and here is another change
+-- testing comment conflict
 
 with
 
