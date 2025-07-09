@@ -1,4 +1,4 @@
---here is a change
+--here is a change this is the conflict test
 
 -- and here is another change
 
