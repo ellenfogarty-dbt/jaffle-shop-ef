@@ -4,6 +4,8 @@
 --here is a change
 >>>>>>> 3cb48b8a200c428ff288af39131074034f05e4d7
 
+-- and here is another change
+
 with
 
 source as (
