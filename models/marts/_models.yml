@@ -1,7 +1,7 @@
 models:
-  - name: customers.sql #name1 of one of your parent's model here
+  - name: customers #name1 of one of your parent's model here
     description: Example model in the parent project
     access: public
-  - name: locations.sql #name2 of one of your parent's model here
+  - name: locations #name2 of one of your parent's model here
     description: Another example model in the parent project
     access: public
