@@ -9,6 +9,7 @@ customers as (
 orders as (
 
     select * from {{ ref('orders') }}
+    WHERE 1=1
 
 ),
 
