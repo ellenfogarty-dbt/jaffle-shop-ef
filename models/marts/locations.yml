@@ -2,6 +2,7 @@ semantic_models:
   - name: locations
     description: |
       Location dimension table. The grain of the table is one row per location.
+    access: public
     model: ref('locations')
     defaults:
       agg_time_dimension: opened_date
